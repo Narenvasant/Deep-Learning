@@ -1,1 +1,3 @@
-
+Implemented a simple method that estimates uncertainty in regression using a neural network using TensorFlow and keras.
+The model has two outputs, one for the mean and another for the variance. The loss function is the Gaussian log-likelihood.
+The model is based on fully connected layers that estimates f(x) from the generated training set, using the loss L above, and visualize the mean and variance.
