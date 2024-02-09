@@ -1,1 +1,2 @@
-
+Implemented a neural network using Pytorch with this loss function
+Calculated MSE and weighted MSE loss, then plotted in a graph
